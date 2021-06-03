@@ -1,0 +1,6 @@
+.theme--light.v-btn.v-btn--disabled.v-btn--has-bg.primary-disable-btn {
+    background-color:#1976d2 !important;
+    border: #1976d2 !important;
+    color: #FFFFFF!important;
+    opacity: 0.5!important;
+}
